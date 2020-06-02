@@ -7,7 +7,7 @@ body
 	color:white;
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
-	font-size: 5vw;
+	font-size: 6vw;
 	text-transform: uppercase;
 	overflow: hidden;
 	background: center / 40% repeat url(img/star-pattern-bg.png), var(--main-color);
@@ -38,7 +38,7 @@ body
 .textSubtitle
 {
 	background: var(--main-color);
-	font-size:0.5em;
+	font-size:0.6em;
 	font-weight: 300;
 	letter-spacing: 0.5vw;
 	padding: 0 1vw;
